@@ -1,0 +1,50 @@
+/* Marcellus Font Family */
+
+@font-face {
+    font-family: 'Marcellus';
+    src: url('../webfonts/Marcellus/Marcellus-Regular.woff2') format('woff2'),
+         url('../webfonts/Marcellus/Marcellus-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Catamaran Font Family */
+
+@font-face {
+    font-family: 'Catamaran';
+    src: url('../webfonts/Catamaran/Catamaran-Regular.woff2') format('woff2'),
+         url('../webfonts/Catamaran/Catamaran-Medium.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Catamaran';
+    src: url('../webfonts/Catamaran/Catamaran-Medium.woff2') format('woff2'),
+         url('../webfonts/Catamaran/Catamaran-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Catamaran';
+    src: url('../webfonts/Catamaran/Catamaran-SemiBold.woff2') format('woff2'),
+         url('../webfonts/Catamaran/Catamaran-SemiBold.html') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Playfair Display Font Family */
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../webfonts/PlayfairDisplay/PlayfairDisplay-Medium.woff2') format('woff2'),
+         url('../webfonts/PlayfairDisplay/PlayfairDisplay-Medium.html') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

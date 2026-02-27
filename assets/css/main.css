@@ -1632,21 +1632,32 @@ a,
         height: 450px;
     }
 
-.service-container--cinematic-makeup {
+.service-container--Facial {
     background-image: url('../images/2cinematicservicesmakeup.jpg');
 }
 
-.service-container--fashion-makeup {
+.service-container--Massage {
     background-image: url('../images/servicesmakeupfashiongoal.jpg');
 }
 
-.service-container--bridal-makeup {
+.service-container--Hair {
     background-image: url('../images/eventservices123.jpg');
 }
 
-.service-container--hair-style {
+.service-container--Nail {
     background-image: url('../images/serviceshairstyle11.jpg');
 }
+.service-container--Grooming {
+    background-image: url('../images/service-5.jpg');
+}
+.service-container--Eyelash {
+    background-image: url('../images/service-6.jpg');
+}
+.service-container--Yoga {
+    background-image: url('../images/service-7.jpg');
+}
+
+
 
 /* ----------------------------------------------------------------------------
    12.4. Why Choose Us Section

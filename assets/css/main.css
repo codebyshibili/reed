@@ -1782,7 +1782,6 @@ a,
     flex: 0 0 100%;
     flex-direction: column;
     justify-content: center;
-    opacity: 0;
     text-align: center;
     transform: scale(0.98);
     transition: opacity 0.5s ease, transform 0.5s ease;
@@ -2641,3 +2640,4 @@ a,
 /* ============================================================================
    End of Stylesheet
 ============================================================================ */
+
